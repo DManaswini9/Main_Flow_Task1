@@ -1,6 +1,6 @@
-📊 Main Flow – Data Science with Python (Internship Task 1)
+#📊 Main Flow – Data Science with Python (Internship Task 1)
 
-🔍 About the Project
+#🔍 About the Project
 This mini project is part of my Data Science with Python internship where I analyzed a real-world dataset related to student academic performance. The goal was to perform data cleaning, exploratory data analysis (EDA), and answer key business questions using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
 🗂 Dataset Used
