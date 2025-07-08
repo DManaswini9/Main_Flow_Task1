@@ -9,9 +9,11 @@ This mini project is part of my Data Science with Python internship where I anal
 Student Performance Dataset
 
 📁 File: student-mat.csv
+
 📌 Source: UCI Machine Learning Repository
 
 📌 Objectives Completed
+
 ✅ Load and inspect dataset
 
 ✅ Check for missing values and clean data
